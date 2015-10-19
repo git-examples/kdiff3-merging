@@ -1,5 +1,5 @@
 Not changed anywhere.
 A==C.
-A==B.
-A is different.
-All are different
+C is different.
+B==C.
+C is very different.
